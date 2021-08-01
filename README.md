@@ -1,0 +1,1 @@
+This is an implementation of the DeLong test in O(n*log(n)) time. Required dependencies listed in requirements.txt.
