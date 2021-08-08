@@ -36,12 +36,12 @@ def convert_canary_data():
 
     Returns
     -------
-    (mxk)  pandas dataframe
-        Dataframe where the columns are the predicted probabilities output from k models
+    (mxk)  ndarray
+        Columns are the predicted probabilities output from k models
         for all AD-positive subjects
 
-    (nxk)  pandas dataframe
-        Dataframe where the columns are the predicted probabilities output from k models
+    (nxk)  ndarray
+        Columns are the predicted probabilities output from k models
         for all control subjects
 
     """
